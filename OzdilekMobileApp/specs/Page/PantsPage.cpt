@@ -1,0 +1,22 @@
+Created by testinium on 1.02.2022
+
+This is a concept file with following syntax for each concept.
+# Pantalon Sayfası Aşağıya Kaydırılır
+* Sayfayı aşağıya kaydır
+* "5" saniye kadar bekle
+
+# Random Bir Ürün Seçimi
+* Elementler "//*[@resource-id='com.ozdilek.ozdilekteyim:id/imageView']" arasından rasgele bir tanesini seç ve tıkla
+* "5" saniye kadar bekle
+
+# Ürün Detay Sayfası Açıldığı Kontrol Edilir
+* xpath "//android.widget.TextView[@text='Ürün Adı :']" li elementi bul ve "Ürün Adı :" alanını kontrol et
+* "5" saniye kadar bekle
+
+# Favoriler Butonuna Tıklanır
+* id "com.ozdilek.ozdilekteyim:id/imgFav" li elemente tıkla
+* "5" saniye kadar bekle
+
+# Random Ürün Sepete Eklenir
+* id "com.ozdilek.ozdilekteyim:id/relLayAddCartBtn" li elemente tıkla
+

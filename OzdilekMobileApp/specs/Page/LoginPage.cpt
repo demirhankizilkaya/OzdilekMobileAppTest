@@ -1,0 +1,20 @@
+Created by testinium on 1.02.2022
+
+This is a concept file with following syntax for each concept.
+# Login
+* "com.ozdilek.ozdilekteyim:id/etEposta" id'sine "demirhan.kizilkaya@testinium.com" textini yaz
+* "3" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/etPassword" id'sine "Testinium" textini yaz
+* "3" saniye kadar bekle
+# Geri Tuşuna Basılır
+* id "com.ozdilek.ozdilekteyim:id/ivBack" li elemente tıkla
+* "3" saniye kadar bekle
+* id "com.ozdilek.ozdilekteyim:id/ivBack" li elemente tıkla
+* "3" saniye kadar bekle
+# Ürün Sepete Eklenir
+* id "com.ozdilek.ozdilekteyim:id/relLayAddCartBtn" li elemente tıkla
+
+
+
+
+
